@@ -1,0 +1,2 @@
+# Baidu_HumanFeature_and_gesture_recognition
+此仓库用来盛放用调用百度AI接口做人体特征识别与手势识别的项目（opl校赛）
